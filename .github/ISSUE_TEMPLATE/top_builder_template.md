@@ -1,6 +1,6 @@
 ---
 name: Top Builder Team Submission
-about: Use this template to submit projects to Top Builder 2024.
+about: Use this template to submit projects to Top Builder 2025.
 title: "[Top Builder 2025]: "
 labels: Top Builder,Teams
 assignees: ''
