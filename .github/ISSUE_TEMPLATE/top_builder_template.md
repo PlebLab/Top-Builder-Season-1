@@ -1,12 +1,12 @@
 ---
 name: Top Builder Team Submission
 about: Use this template to submit projects to Top Builder 2024.
-title: "[Top Builder 2024]: "
+title: "[Top Builder 2025]: "
 labels: Top Builder,Teams
 assignees: ''
 ---
 
-# 🏗️ Top Builder 2024 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
+# 🏗️ Top Builder 2025 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
 
 ## 📝 Instructions
 1. Only complete this form if you have been chosen for Top Builder, by PlebLab.
@@ -38,35 +38,35 @@ assignees: ''
 - **Future Roadmap of what's next**:
 
 ## ⏳ Round 1 Milestone
-- **Keep in mind that completion will need to be by February 10th, 2024.**
+- **Keep in mind that completion will need to be by February 8th, 2025.**
 - **First-round milestone the team has set for themselves:**
 
 ## 📝 Submission Complete
 - **All required information has been provided above.**
 
 ## 📅 Top Builder Program Structure
-### Registration Opens: Monday, December 18, 2023
+### Registration Opens: Monday, October 28th, 2024
 - **Application**: Interested teams apply for Top Builder.
-- **Selection**: Teams will be chosen based on their application. See [FAQ](https://github.com/PlebLab/Top-Builder) for details.
+- **Selection**: Teams will be chosen based on their application. See [FAQ](Top-Builder-Season-2) for details.
 
-### Round 1: January 13 - February 10, 2024
+### Round 1: January 6th - February 8th, 2025
 - **Workshops**: PlebLab weekly workshops start, available live and online.
 - **Chat Access**: Selected teams join the PlebLab internal chat.
 - **Mentorship**: Begins for teams.
 - **Project Milestones**: Teams are set and judged on their first-round milestones.
 
-### Round 2: February 10 - 24, 2024
+### Round 2: February 9 - 22nd, 2025
 - **Team Reduction**: PlebLab cuts half of the Top Builder teams. (Only half continued in Round 2.)
 - **Project Milestones**: Teams are set and judged on their second-round milestones.
 - **Workshops**: PlebLab weekly workshops continue.
 - **Mentorship**: Continues.
 
-### Round 3: Starting February 24, 2024
-- **Team Reduction**: PlebLab narrows down to 6 Top Builder teams. (All will be pitching in Austin.)
+### Round 3: Starting February 23rd, 2025
+- **Team Reduction**: PlebLab narrows down to 5 Top Builder teams. (All will be pitching in Austin.)
 - **Final Milestones**: Teams set final project milestones for the last round.
 - **Preparation**: Teams prepare their pitch in front of judges. Final teams are contacted to come to Austin for Startup Day.
 
-### Final Round at Startup Day: March 14, 2024
+### Final Round at Startup Day: March 13, 2025
 - **Preparation**: Teams work on their final pitches at PlebLab.
 - **Presentations**: Final teams present before judges on Startup Day.
 - **Deliberation**: Judges decide during a happy hour.
