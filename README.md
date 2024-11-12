@@ -144,7 +144,7 @@ Startup Day is a twice-yearly event for Bitcoin startups. It includes builder se
 
 To submit or update your project, use our standardized template:
 
-1. Navigate to the [Top Builder Project Page]([https://github.com/orgs/PlebLab/projects/8/views/1]).
+1. Navigate to the [Top Builder Project Page](https://github.com/orgs/PlebLab/projects/8/views/1).
 2. Click on "New Issue".
 3. Choose the "Project Submission / Update" template.
 
@@ -156,7 +156,7 @@ Include the following in your submission:
 - **Project Details**: Project title and a short description.
 - **Progress and Feedback**: Project's progress, challenges, next steps, and feedback.
 
-**🔗 Direct link to Template**: [Project Submission / Update]([https://github.com/PlebLab/Top-Builder-Season-2/issues/new/choose]).
+**🔗 Direct link to Template**: [Project Submission / Update](https://github.com/PlebLab/Top-Builder-Season-2/issues/new/choose).
 
 ## Staying Connected
 
