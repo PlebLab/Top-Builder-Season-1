@@ -3,7 +3,7 @@ name: Top Builder Team Submission
 about: Use this template to submit projects to Top Builder 2025.
 title: "[Top Builder 2025]: "
 labels: ["Top Builder,Teams"]
-projects: ["Top-Builder-Season-2"]
+projects: ["PlebLab/Top-Builder-Season-2"]
 assignees: ''
 ---
 
