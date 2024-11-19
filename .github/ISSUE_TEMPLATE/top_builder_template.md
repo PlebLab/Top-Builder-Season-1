@@ -2,9 +2,8 @@
 name: Top Builder Team Submission
 about: Use this template to submit projects to Top Builder 2025.
 title: "[Top Builder 2025]: "
-labels: ''
+labels: Top Builder,Teams
 assignees: ''
-
 ---
 
 # 🏗️ Top Builder 2025 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
