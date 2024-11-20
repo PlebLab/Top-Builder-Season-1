@@ -140,15 +140,12 @@ Startup Day is a twice-yearly event for Bitcoin startups. It includes builder se
 
 ## Project Updates for Top Builder teams
 
-### Accessing the Project Template
-
-To submit or update your project, use our standardized template:
+### Accessing the Top Builder 2025 Schedule/Teams
 
 1. Navigate to the [Top Builder Project Page](https://github.com/orgs/PlebLab/projects/8/views/1).
-2. Click on "New Issue".
-3. Choose the "Project Submission / Update" template.
+2. Click on "Top Builder Teams" or "Top Builder Workshops".
 
-### Filling Out the Template
+### Filling Out the Project Submission Template
 
 Include the following in your submission:
 
