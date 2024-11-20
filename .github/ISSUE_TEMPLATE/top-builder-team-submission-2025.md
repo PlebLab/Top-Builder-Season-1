@@ -7,12 +7,16 @@ projects: ''
 assignees: ''
 ---
 
-
 # 🏗️ Top Builder 2025 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
 
 ## 📝 Instructions
-1. Only complete this form if you have been chosen for Top Builder, by PlebLab.
-2. Provide detailed information to assist the judges in evaluating your project.
+Welcome to the Top Builder competition! Before you begin, here’s what you need to know:
+
+1. **Eligibility**: Only teams that have been officially selected for Top Builder by PlebLab are eligible to use this form.
+2. **Detailed Submissions**: Provide comprehensive information to assist the judges in evaluating your project effectively.
+3. **Submission Deadlines**: Adhere to submission deadlines for each round to remain in good standing.
+
+For a detailed example of what your project submission should look like from Round 1 to 3, refer to this [perfect example from last year's Top Builder](https://github.com/PlebLab/Top-Builder-Season-1/issues/16). This guide will show you how to structure your updates week to week, and what's expected in your submissions for the 1st and 2nd rounds.
 
 ## 🧑‍🤝‍🧑 The Team
 - **Team Name**:
