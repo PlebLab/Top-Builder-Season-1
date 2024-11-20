@@ -1,10 +1,10 @@
 ---
-name: Top Builder Team Submission
+name: Top Builder Team Submission 2025
 about: Use this template to submit projects to Top Builder 2025.
 title: "[Top Builder 2025]: "
-labels: ["Top Builder,Teams"]
-projects: ["PlebLab/Top-Builder-Season-2"]
+labels: ''
 assignees: ''
+
 ---
 
 # 🏗️ Top Builder 2025 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
