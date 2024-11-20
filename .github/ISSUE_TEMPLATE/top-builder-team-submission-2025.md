@@ -2,7 +2,7 @@
 name: Top Builder Team Submission 2025
 about: Use this template to submit projects to Top Builder 2025.
 title: "[Top Builder 2025]: "
-labels: ''
+labels: Teams, Top Builder
 assignees: ''
 
 ---
